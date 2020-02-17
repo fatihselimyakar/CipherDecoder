@@ -1,11 +1,7 @@
-; *********************************************
-; *  341 Programming Languages                *
-; *  Fall 2019                                *
-; *  Author: Yakup Genc                       *
+; ********************************************* 
+; *  Author: Fatih Selim Yakar                *
 ; *********************************************
 
-; ******* Fatih Selim Yakar *******
-; *********** 161044054 ***********
 ;; utility functions 
 (load "include.lisp") ;; "c2i and "i2c"
 
